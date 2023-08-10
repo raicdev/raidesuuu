@@ -3,7 +3,7 @@
 
 - 🔭 働いているチーム: [UpLauncher](https://github.com/uplauncher)
 
-- 🌱 言語は**HTML, CSS, JS, C#**を現在勉強中
+- 🌱 言語は **HTML, CSS, JS, C#** を現在勉強中
 
 - 👯 個人の開発でメインは [VistaUpdater](https://github.com/raisandesu/VistaUpdater)
 
