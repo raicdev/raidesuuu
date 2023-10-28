@@ -5,7 +5,7 @@
 
 - 🌱 言語は **HTML, CSS, JS, C#** を現在勉強中
 
-- 👯 個人の開発でメインは [VistaUpdater](https://github.com/raisandesu/VistaUpdater)
+- 👯 メインの開発は [VistaUpdater](https://github.com/VistaUpdater)
 
 - 📫 メールアドレスは: **contact@rai.uplauncher.xyz**
 
