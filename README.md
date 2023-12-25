@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rai (raisandesu)</h1>
+<h1 align="center">Hi 👋, I'm Rai (raidesuuu)</h1>
 <h3 align="center">いろんなソフトウェアやツールなどを作っている人です</h3>
 
 - 🔭 働いているチーム: [UpLauncher](https://github.com/uplauncher)
