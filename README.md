@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rai (raidesuuu)</h1>
+<h1 align="center">こんにちは！雷(らい)です！</h1>
 <h3 align="center">いろんなソフトウェアやツールなどを作っている人です</h3>
 
-- 🔭 働いているチーム: [UpLauncher](https://github.com/uplauncher)
-
-- 🌱 言語は **HTML, CSS, JS, C#** を現在勉強中
+- 🌱 言語は、**HTML, CSS, JS, TS, C#**を現在勉強中
 
 - 👯 メインの開発は [VistaUpdater](https://github.com/VistaUpdater)
 
-- 📫 メールアドレスは: **contact@rai.uplauncher.xyz**
+- 📫 メールアドレス: **contact@rai.uplauncher.xyz**
 
 <h3 align="left">私のSNS:</h3>
 <p align="left">
