@@ -1,7 +1,7 @@
 <h1 align="center">こんにちは！雷(らい)です！</h1>
 <h3 align="center">いろんなソフトウェアやツールなどを作っている人です</h3>
 
-- 🌱 言語は、**HTML, CSS, JS, TS, C#**を現在勉強中
+- 🌱 言語は、**HTML, CSS, JS, TS, C#** を現在勉強中
 
 - 👯 メインの開発は [VistaUpdater](https://github.com/VistaUpdater)
 
