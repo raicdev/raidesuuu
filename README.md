@@ -1,5 +1,5 @@
 <h1 align="center">雷です！ こんにちは👋</h1>
-<h3 align="center">日本のWeb、node.js、TypeScript、C#の開発者。</h3>
+<h3 align="center">日本のWeb、node.js、TypeScript、C#の開発者。（学生）</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raidesuuu&label=View%20Count%20&color=0e75b6&style=flat" alt="raidesuuu" /> </p>
 
