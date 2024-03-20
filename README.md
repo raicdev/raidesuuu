@@ -20,7 +20,7 @@
 <h3 align="left">雷とつながる:</h3>
 <p align="left">
 <a href="https://twitter.com/raidesuuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raidesuuu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/%e9%9b%b7-im-b523442b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%e9%9b%b7-im-b523442b1/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rai-san" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rai-san" height="30" width="40" /></a>
 <a href="https://www.instagram.com/raisandayoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/raisandayoo/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC4c5qLRRG3HCTmzxH69XBtw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc4c5qlrrg3hctmzxh69xbtw" height="30" width="40" /></a>
 </p>
